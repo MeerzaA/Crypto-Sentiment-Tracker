@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "csci578-cryptoboard-test",
+    "CryptoBoard-Test": "csci578-cryptoboard-test"
+  },
+  "targets": {},
+  "etags": {}
+}
